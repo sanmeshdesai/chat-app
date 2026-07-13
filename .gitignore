@@ -1,0 +1,20 @@
+# IDE
+.idea/
+
+# Node.js
+**/node_modules/
+
+# Next.js
+client/.next/
+client/out/
+
+# Environment files
+**/.env
+**/.env.local
+
+# Logs
+**/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
